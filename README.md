@@ -1,2 +1,2 @@
-# clip_fineart_image_captioning
-A concept-guided fine-art image captioning framework integrating CLIP-based semantic embeddings with transformer-based language generation for stylistically aware artwork description.
+# Fine-Art Image Captioning using CLIP
+Implemented a multimodal image captioning pipeline leveraging CLIP semantic alignment and transformer decoders to generate context-aware captions for fine-art imagery.
